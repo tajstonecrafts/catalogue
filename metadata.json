@@ -1,0 +1,6 @@
+{
+  "name": "Taj Stone Crafts",
+  "description": "Artisanal handcrafted marble creations, Pietra Dura inlay, home & bath essentials, personalized artifacts, and secure online ordering from Agra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
